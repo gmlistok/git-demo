@@ -1,9 +1,4 @@
 Hello
 I'm here!
-<<<<<<< HEAD
-
-
 It's I!
-=======
 Will you go with me?
->>>>>>> 5fa7bd76a2b1ae90e8ddaaa4f31f5db202970741
